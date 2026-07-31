@@ -1,0 +1,17 @@
+1. python -m venv venv // for using virtual enviroment
+
+2. pip install numpy
+
+3. create a file with extention .ipynb
+
+4. top right corner select the kernel 
+ ** if not showed then install extension in VS CODE Jupiter & Python (by Microsoft)
+
+5. click on their and select venv(3.something)
+
+6. select python enviroment 
+
+your set up done 
+
+for tittle use shift+enter then esc+M
+for code use shift+enter then esc+y
